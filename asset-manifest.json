@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/etetet/static/css/main.1ee58549.css",
+    "main.js": "/etetet/static/js/main.5d01a628.js",
+    "index.html": "/etetet/index.html",
+    "main.1ee58549.css.map": "/etetet/static/css/main.1ee58549.css.map",
+    "main.5d01a628.js.map": "/etetet/static/js/main.5d01a628.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ee58549.css",
+    "static/js/main.5d01a628.js"
+  ]
+}
